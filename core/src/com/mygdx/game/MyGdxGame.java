@@ -78,10 +78,10 @@ public class MyGdxGame extends ApplicationAdapter {
 	@Override
 	public void render () {
 
-		if(secondsLeft <= 0)
-		{
-			stopGame();
-		}
+//		if(secondsLeft <= 0)
+//		{
+//			stopGame();
+//		}
 
 		// clearing the background
 		Gdx.gl.glClearColor(0.5f, 0.5f, 1, 0.5f);
