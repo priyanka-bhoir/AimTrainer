@@ -5,7 +5,6 @@ AimTrainer is a simple yet effective tool designed to help users improve their a
 ## Features
 
 - **Customizable Settings:** Adjust parameters such as target size, speed, and duration to tailor your training regimen.
-- **Multiple Game Modes:** Choose from different game modes to simulate various shooting scenarios, including static targets, moving targets, and more.
 - **Performance Metrics:** Track your progress over time with detailed statistics and performance metrics to identify areas for improvement.
 - **Responsive Design:** Designed with a user-friendly interface that works seamlessly across different devices and screen sizes.
 - **Open Source:** Built with open-source technologies, AimTrainer is freely available for anyone to use, modify, and contribute to.
